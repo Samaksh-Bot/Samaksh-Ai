@@ -1,0 +1,64 @@
+{"level":30,"time":1749480139901,"pid":6740,"hostname":"DESKTOP-37CVKHC","msg":"Validating config file and environment variables"}
+{"level":50,"time":1749480139902,"pid":6740,"hostname":"DESKTOP-37CVKHC","msg":"env: BOT_TOKEN cannot be empty"}
+{"level":30,"time":1749480195395,"pid":11972,"hostname":"DESKTOP-37CVKHC","msg":"Validating config file and environment variables"}
+{"level":50,"time":1749480195396,"pid":11972,"hostname":"DESKTOP-37CVKHC","msg":"env: BOT_TOKEN cannot be empty"}
+{"level":30,"time":1749480286564,"pid":12664,"hostname":"DESKTOP-37CVKHC","msg":"Validating config file and environment variables"}
+{"level":50,"time":1749480286565,"pid":12664,"hostname":"DESKTOP-37CVKHC","msg":"env: BOT_TOKEN cannot be empty"}
+{"level":30,"time":1749480410293,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Validating config file and environment variables"}
+{"level":30,"time":1749480410398,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loading commands..."}
+{"level":20,"time":1749480411175,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1749480411179,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1749480411184,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1749480411189,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1749480411192,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1749480411204,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1749480411205,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1749480411209,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1749480411214,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1749480411217,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1749480411247,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1749480411249,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1749480411253,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1749480411254,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1749480411255,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1749480411257,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1749480411258,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1749480411260,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1749480411261,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1749480411264,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1749480411266,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1749480411269,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1749480411273,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1749480411277,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1749480411290,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1749480411294,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1749480411296,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1749480411300,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1749480411301,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1749480411303,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1749480411305,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1749480411307,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1749480411309,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1749480411311,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1749480411312,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1749480411313,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1749480411315,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1749480411316,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1749480411318,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1749480411319,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1749480411321,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1749480411378,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loaded 91 commands"}
+{"level":30,"time":1749480411378,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1749480411378,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loading contexts..."}
+{"level":30,"time":1749480411381,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1749480411381,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1749480411381,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loading events..."}
+{"level":30,"time":1749480411454,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1749480411903,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"VersionCheck: 5.6.0 update is available"}
+{"level":40,"time":1749480411903,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1749480411903,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1749480412880,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1749480414111,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Logged in as Samaksh Ai#1235! (1381239797863026800)"}
+{"level":30,"time":1749480414111,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1749480414323,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1749480415391,"pid":14916,"hostname":"DESKTOP-37CVKHC","msg":"Successfully registered interactions"}
